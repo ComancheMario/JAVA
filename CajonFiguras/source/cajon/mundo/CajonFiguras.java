@@ -20,7 +20,7 @@ public class CajonFiguras {
 	
 	//TODO: Escribir el código del constructor que genere el ArrayList figuras
 	// vacío. Se debe documentar. No debe recibir nada por parámetro.
-	
+	// tengo que terminar pronto...
 	
 	//----------------
 	// Métodos
